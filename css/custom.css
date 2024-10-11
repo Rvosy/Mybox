@@ -115,7 +115,7 @@ div#archive {
 }
 
 
-/* 滚动条 */
+/* 滚动条
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -148,7 +148,7 @@ div#archive {
 ::-moz-selection {
   color: #fff;
   background-color: #49b1f5;
-}
+} */
 
 
 
